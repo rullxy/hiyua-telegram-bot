@@ -1,3 +1,4 @@
+
 ## 📝 **README.md**
 
 ```markdown
@@ -246,22 +247,4 @@ This project is open source and available under the [MIT License](LICENSE).
 *If you enjoy this project, please give it a ⭐ on GitHub!*
 ```
 
-## 🎯 **Key Sections Included:**
 
-✅ **Comprehensive setup instructions**  
-✅ **Easy customization guide**  
-✅ **Project structure overview**  
-✅ **Troubleshooting section**  
-✅ **Multiple personality examples**  
-✅ **Token usage explanation**  
-✅ **Contribution guidelines**  
-✅ **Professional formatting**  
-
-## 💡 **Customizable Parts Highlighted:**
-
-1. **Bot Name & Personality** - Easy to change in system prompt
-2. **AI Provider** - Can switch from Cohere to others
-3. **Response Style** - Temperature, token limits, etc.
-4. **Commands** - All handlers are modular
-5. **Token Limits** - Adjustable for different needs
-6. **Storage** - Can switch from JSON to database
