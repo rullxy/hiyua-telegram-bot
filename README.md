@@ -6,9 +6,6 @@
 
 A friendly, romantic Japanese AI girlfriend chatbot for Telegram built with Node.js and Cohere AI.
 
-![Hiyua Bot](https://img.shields.io/badge/Hiyua-Bot-pink?style=for-the-badge&logo=telegram)
-![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge&logo=nodedotjs)
-![Cohere AI](https://img.shields.io/badge/Cohere-AI-orange?style=for-the-badge)
 
 ## 🌸 About Hiyua
 
