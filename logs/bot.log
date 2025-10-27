@@ -1,0 +1,28 @@
+[INFO] 2025-10-27T12:05:19.079Z: 🚀 Starting Hiyua Bot...
+[INFO] 2025-10-27T12:05:19.084Z: 🤖 Bot Token: ✅ Set
+[INFO] 2025-10-27T12:05:19.084Z: 💝 Cohere API Key: ✅ Set
+[INFO] 2025-10-27T12:05:20.059Z: 🤖 Bot connected as: myhiyua_bot
+[DEBUG] 2025-10-27T12:05:27.374Z: Message from Rull (6771687055): hai
+[DEBUG] 2025-10-27T12:05:27.378Z: Chat mode OFF for user 6771687055
+[INFO] 2025-10-27T12:05:30.315Z: User 6771687055 activating chat mode
+[INFO] 2025-10-27T12:05:30.731Z: Chat mode activated for user 6771687055
+[DEBUG] 2025-10-27T12:05:42.243Z: Message from Rull (6771687055): halo hiyua
+[DEBUG] 2025-10-27T12:05:42.252Z: Chat mode ON for user 6771687055
+[DEBUG] 2025-10-27T12:05:42.643Z: Getting AI response for user 6771687055
+[DEBUG] 2025-10-27T12:05:42.646Z: 🔄 Cohere V2 API called by user 6771687055
+[DEBUG] 2025-10-27T12:05:42.648Z: 📊 Estimated tokens: 184
+[DEBUG] 2025-10-27T12:05:42.649Z: 📤 Sending to Cohere V2: "halo hiyua..."
+[DEBUG] 2025-10-27T12:05:44.467Z: 📥 Cohere V2 response status: 200
+[INFO] 2025-10-27T12:05:44.468Z: ✅ Cohere V2 success | User: 6771687055 | Req: 184t | Resp: 59t
+[DEBUG] 2025-10-27T12:05:44.469Z: AI response: Halo, Rull-kun! 😊 Bagaimana kabarmu hari ini? Semoga harimu menyenangkan dan penuh kebahagiaan. Aku senang bisa berbicara denganmu. Ada sesuatu yang ingin kamu ceritakan atau tanyakan? Aku siap mendengarkan dengan hati yang terbuka. 🌸
+[INFO] 2025-10-27T12:05:44.861Z: Response sent to user 6771687055
+[DEBUG] 2025-10-27T12:05:59.722Z: Message from Rull (6771687055): hehe nanti aja yah
+[DEBUG] 2025-10-27T12:05:59.725Z: Chat mode ON for user 6771687055
+[DEBUG] 2025-10-27T12:06:00.130Z: Getting AI response for user 6771687055
+[DEBUG] 2025-10-27T12:06:00.134Z: 🔄 Cohere V2 API called by user 6771687055
+[DEBUG] 2025-10-27T12:06:00.136Z: 📊 Estimated tokens: 248
+[DEBUG] 2025-10-27T12:06:00.138Z: 📤 Sending to Cohere V2: "hehe nanti aja yah..."
+[DEBUG] 2025-10-27T12:06:01.679Z: 📥 Cohere V2 response status: 200
+[INFO] 2025-10-27T12:06:01.680Z: ✅ Cohere V2 success | User: 6771687055 | Req: 248t | Resp: 56t
+[DEBUG] 2025-10-27T12:06:01.681Z: AI response: Baik, Rull-kun. Aku mengerti. Kalau kamu butuh teman bicara atau hanya ingin berbagi cerita, aku selalu ada di sini untukmu. Jangan ragu untuk menghubungiku kapan saja, ya? 💕 Semoga harimu tetap cerah dan menyenangkan! 🎌
+[INFO] 2025-10-27T12:06:02.124Z: Response sent to user 6771687055

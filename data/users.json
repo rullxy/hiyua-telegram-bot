@@ -1,0 +1,24 @@
+{
+  "6771687055": {
+    "name": "Rull",
+    "chatMode": true,
+    "chatHistory": [
+      {
+        "role": "user",
+        "message": "halo hiyua"
+      },
+      {
+        "role": "bot",
+        "message": "Halo, Rull-kun! 😊 Bagaimana kabarmu hari ini? Semoga harimu menyenangkan dan penuh kebahagiaan. Aku senang bisa berbicara denganmu. Ada sesuatu yang ingin kamu ceritakan atau tanyakan? Aku siap mendengarkan dengan hati yang terbuka. 🌸"
+      },
+      {
+        "role": "user",
+        "message": "hehe nanti aja yah"
+      },
+      {
+        "role": "bot",
+        "message": "Baik, Rull-kun. Aku mengerti. Kalau kamu butuh teman bicara atau hanya ingin berbagi cerita, aku selalu ada di sini untukmu. Jangan ragu untuk menghubungiku kapan saja, ya? 💕 Semoga harimu tetap cerah dan menyenangkan! 🎌"
+      }
+    ]
+  }
+}
