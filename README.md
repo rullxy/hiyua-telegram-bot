@@ -29,8 +29,8 @@ Hiyua is a Telegram chatbot with the personality of a gentle, romantic Japanese 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/hiyua-bot.git
-cd hiyua-bot
+git clone https://github.com/rullxy/hiyua-telegram-bot.git
+cd hiyua-telegram-bot
 ```
 
 2. **Install dependencies**
